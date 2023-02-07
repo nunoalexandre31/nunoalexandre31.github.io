@@ -1,0 +1,22 @@
+body{
+  background-image: url("kerri-shaver-xepikEyPgmI-unsplash.jpeg");
+
+  background-repeat:no-repeat;
+  background-size: cover;
+  
+
+}
+
+.form{
+  max-width: 600px;
+   margin: 18rem auto;
+   padding: 4rem;
+   padding-left: 20%;
+}
+input{
+  display: block;
+  border-radius: 20px;;
+  margin: 15px;
+  width: 300px;
+  height: 30px;
+}
