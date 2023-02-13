@@ -1,6 +1,5 @@
 body{
-  background-image: url("kerri-shaver-xepikEyPgmI-unsplash.jpeg");
-
+  background-image: url("Formato\ grande\ \(PC\).svg");
   background-repeat:no-repeat;
   background-size: cover;
   
@@ -9,14 +8,14 @@ body{
 
 .form{
   max-width: 600px;
-   margin: 18rem auto;
-   padding: 4rem;
-   padding-left: 20%;
+   margin: 20rem auto;
+   padding-top:  5rem;
+   padding-left: 39%;
 }
 input{
   display: block;
   border-radius: 20px;;
   margin: 15px;
-  width: 300px;
+  width: 300px; 
   height: 30px;
 }
