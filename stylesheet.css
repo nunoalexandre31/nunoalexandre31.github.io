@@ -18,11 +18,22 @@ body{
 input[type=text], [type=tel], [type=email] {
   background: transparent;
   border: none;
-  border-bottom: 1px solid #000000; 
+  border-bottom: 1px solid #899A6C; 
   display: block;
   margin: 15px;
   width: 300px; 
   height: 30px;
+
+
+}
+
+input::placeholder {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 350;
+  font-size: 22px;
+  line-height: 30px;
+  color:#899A6C; 
 }
 
 input[type=submit]{
@@ -34,4 +45,9 @@ input[type=submit]{
   margin: 15px;
   width: 133px;
   height: 53px;
+<<<<<<< HEAD
 }
+=======
+  color: #899A6C;
+}
+>>>>>>> b59b78b (colors)
