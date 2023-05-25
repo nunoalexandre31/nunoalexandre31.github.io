@@ -11,7 +11,7 @@ body{
   max-width: 600px;
    margin: 20rem auto;
    padding-top:  5rem;
-   padding-left: 300px;;
+   padding-left: 400px;;
 }
 
 
@@ -41,10 +41,11 @@ input[type=submit]{
   background: transparent;
   border-bottom: 1px solid #899A6C; 
   display: block;
-  left: 757px;
+  left: 700px;
   margin: 15px;
-  width: 133px;
-  height: 53px;
+  width: 100px;
+  height: 45px;
   color: #899A6C;
+
 }
 
